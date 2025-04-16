@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+commands/__init__.py
+commands/scan.py
+core/__init__.py
+core/config.py
+tbot.egg-info/PKG-INFO
+tbot.egg-info/SOURCES.txt
+tbot.egg-info/dependency_links.txt
+tbot.egg-info/requires.txt
+tbot.egg-info/top_level.txt

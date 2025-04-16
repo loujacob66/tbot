@@ -1,0 +1,23 @@
+{
+  "TOKEN0": {
+    "total_mentions": 44,
+    "unique_posts": 44,
+    "total_karma": 4598,
+    "avg_karma_per_post": 104.5,
+    "karma_per_minute_max": 100.0
+  },
+  "TOKEN1": {
+    "total_mentions": 33,
+    "unique_posts": 33,
+    "total_karma": 3432,
+    "avg_karma_per_post": 104.0,
+    "karma_per_minute_max": 20.19997474784829
+  },
+  "TOKEN2": {
+    "total_mentions": 33,
+    "unique_posts": 33,
+    "total_karma": 3465,
+    "avg_karma_per_post": 105.0,
+    "karma_per_minute_max": 10.199993559602989
+  }
+}

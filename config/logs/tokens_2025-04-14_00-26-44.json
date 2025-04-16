@@ -1,0 +1,93 @@
+{
+  "200": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 1838,
+    "avg_karma_per_post": 1838.0,
+    "karma_per_minute_max": 1.5113959539211728
+  },
+  "22": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 161,
+    "avg_karma_per_post": 161.0,
+    "karma_per_minute_max": 0.7220994946656782
+  },
+  "6": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 142,
+    "avg_karma_per_post": 142.0,
+    "karma_per_minute_max": 0.38775463753037254
+  },
+  "13M": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 47,
+    "avg_karma_per_post": 47.0,
+    "karma_per_minute_max": 0.0644311377989052
+  },
+  "ACT": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 542,
+    "avg_karma_per_post": 542.0,
+    "karma_per_minute_max": 0.9982301381791455
+  },
+  "KULA": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 365,
+    "avg_karma_per_post": 365.0,
+    "karma_per_minute_max": 0.5783757513477358
+  },
+  "BUTT": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 309,
+    "avg_karma_per_post": 309.0,
+    "karma_per_minute_max": 1.6585175098893514
+  },
+  "CHECKIT": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 313,
+    "avg_karma_per_post": 313.0,
+    "karma_per_minute_max": 1.0994248924764254
+  },
+  "OWL": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 179,
+    "avg_karma_per_post": 179.0,
+    "karma_per_minute_max": 0.24733061411042007
+  },
+  "5K": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 179,
+    "avg_karma_per_post": 179.0,
+    "karma_per_minute_max": 0.24733061411042007
+  },
+  "8": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 179,
+    "avg_karma_per_post": 179.0,
+    "karma_per_minute_max": 0.24733061411042007
+  },
+  "WHITE": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 0,
+    "avg_karma_per_post": 0.0,
+    "karma_per_minute_max": 0.0
+  },
+  "OM": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 3,
+    "avg_karma_per_post": 3.0,
+    "karma_per_minute_max": 0.05498436151248306
+  }
+}

@@ -1,0 +1,8 @@
+[project]
+name = "tbot"
+version = "0.1.0"
+description = "Trend-based crypto trading bot"
+dependencies = ["typer[all]"]
+
+[tool.setuptools]
+packages = ["commands", "core"]

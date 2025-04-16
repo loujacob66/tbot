@@ -1,0 +1,51 @@
+{
+  "BUTT": {
+    "total_mentions": 2,
+    "unique_posts": 2,
+    "total_karma": 670,
+    "avg_karma_per_post": 335.0,
+    "karma_per_minute_max": 0.555039296155681
+  },
+  "ACT": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 540,
+    "avg_karma_per_post": 540.0,
+    "karma_per_minute_max": 0.3803787136069935
+  },
+  "OWL": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 133,
+    "avg_karma_per_post": 133.0,
+    "karma_per_minute_max": 0.5170983295283287
+  },
+  "TEMA": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 6,
+    "avg_karma_per_post": 6.0,
+    "karma_per_minute_max": 0.019003109526008147
+  },
+  "WHITE": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 0,
+    "avg_karma_per_post": 0.0,
+    "karma_per_minute_max": 0.0
+  },
+  "JUP": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 3,
+    "avg_karma_per_post": 3.0,
+    "karma_per_minute_max": 0.004073663766318594
+  },
+  "OM": {
+    "total_mentions": 1,
+    "unique_posts": 1,
+    "total_karma": 1,
+    "avg_karma_per_post": 1.0,
+    "karma_per_minute_max": 0.001763758209196446
+  }
+}

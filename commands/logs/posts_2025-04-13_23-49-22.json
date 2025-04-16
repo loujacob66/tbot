@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "CryptoCurrency_post_0",
+    "subreddit": "CryptoCurrency",
+    "title": "Sample post 0 from CryptoCurrency",
+    "karma": 100,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744588162.4473479,
+    "num_comments": 10,
+    "post_age_minutes": 1,
+    "karma_per_minute": 100.0,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "CryptoCurrency_post_1",
+    "subreddit": "CryptoCurrency",
+    "title": "Sample post 1 from CryptoCurrency",
+    "karma": 101,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587862.447351,
+    "num_comments": 11,
+    "post_age_minutes": 5.0,
+    "karma_per_minute": 20.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "CryptoCurrency_post_2",
+    "subreddit": "CryptoCurrency",
+    "title": "Sample post 2 from CryptoCurrency",
+    "karma": 102,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587562.4473522,
+    "num_comments": 12,
+    "post_age_minutes": 10.0,
+    "karma_per_minute": 10.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "CryptoCurrency_post_3",
+    "subreddit": "CryptoCurrency",
+    "title": "Sample post 3 from CryptoCurrency",
+    "karma": 103,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587262.4473531,
+    "num_comments": 13,
+    "post_age_minutes": 15.0,
+    "karma_per_minute": 6.8667,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "CryptoCurrency_post_4",
+    "subreddit": "CryptoCurrency",
+    "title": "Sample post 4 from CryptoCurrency",
+    "karma": 104,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586962.447354,
+    "num_comments": 14,
+    "post_age_minutes": 20.0,
+    "karma_per_minute": 5.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "CryptoCurrency_post_5",
+    "subreddit": "CryptoCurrency",
+    "title": "Sample post 5 from CryptoCurrency",
+    "karma": 105,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586662.447354,
+    "num_comments": 15,
+    "post_age_minutes": 25.0,
+    "karma_per_minute": 4.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "CryptoCurrency_post_6",
+    "subreddit": "CryptoCurrency",
+    "title": "Sample post 6 from CryptoCurrency",
+    "karma": 106,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586362.4473548,
+    "num_comments": 16,
+    "post_age_minutes": 30.0,
+    "karma_per_minute": 3.5333,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "CryptoCurrency_post_7",
+    "subreddit": "CryptoCurrency",
+    "title": "Sample post 7 from CryptoCurrency",
+    "karma": 107,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586062.447356,
+    "num_comments": 17,
+    "post_age_minutes": 35.0,
+    "karma_per_minute": 3.0571,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "CryptoCurrency_post_8",
+    "subreddit": "CryptoCurrency",
+    "title": "Sample post 8 from CryptoCurrency",
+    "karma": 108,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585762.447356,
+    "num_comments": 18,
+    "post_age_minutes": 40.0,
+    "karma_per_minute": 2.7,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "CryptoCurrency_post_9",
+    "subreddit": "CryptoCurrency",
+    "title": "Sample post 9 from CryptoCurrency",
+    "karma": 109,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585462.447357,
+    "num_comments": 19,
+    "post_age_minutes": 45.0,
+    "karma_per_minute": 2.4222,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "CryptoMoonShots_post_0",
+    "subreddit": "CryptoMoonShots",
+    "title": "Sample post 0 from CryptoMoonShots",
+    "karma": 100,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744588162.447358,
+    "num_comments": 10,
+    "post_age_minutes": 1,
+    "karma_per_minute": 100.0,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "CryptoMoonShots_post_1",
+    "subreddit": "CryptoMoonShots",
+    "title": "Sample post 1 from CryptoMoonShots",
+    "karma": 101,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587862.447358,
+    "num_comments": 11,
+    "post_age_minutes": 5.0,
+    "karma_per_minute": 20.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "CryptoMoonShots_post_2",
+    "subreddit": "CryptoMoonShots",
+    "title": "Sample post 2 from CryptoMoonShots",
+    "karma": 102,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587562.447359,
+    "num_comments": 12,
+    "post_age_minutes": 10.0,
+    "karma_per_minute": 10.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "CryptoMoonShots_post_3",
+    "subreddit": "CryptoMoonShots",
+    "title": "Sample post 3 from CryptoMoonShots",
+    "karma": 103,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587262.447359,
+    "num_comments": 13,
+    "post_age_minutes": 15.0,
+    "karma_per_minute": 6.8667,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "CryptoMoonShots_post_4",
+    "subreddit": "CryptoMoonShots",
+    "title": "Sample post 4 from CryptoMoonShots",
+    "karma": 104,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586962.44736,
+    "num_comments": 14,
+    "post_age_minutes": 20.0,
+    "karma_per_minute": 5.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "CryptoMoonShots_post_5",
+    "subreddit": "CryptoMoonShots",
+    "title": "Sample post 5 from CryptoMoonShots",
+    "karma": 105,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586662.447361,
+    "num_comments": 15,
+    "post_age_minutes": 25.0,
+    "karma_per_minute": 4.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "CryptoMoonShots_post_6",
+    "subreddit": "CryptoMoonShots",
+    "title": "Sample post 6 from CryptoMoonShots",
+    "karma": 106,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586362.447361,
+    "num_comments": 16,
+    "post_age_minutes": 30.0,
+    "karma_per_minute": 3.5333,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "CryptoMoonShots_post_7",
+    "subreddit": "CryptoMoonShots",
+    "title": "Sample post 7 from CryptoMoonShots",
+    "karma": 107,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586062.447362,
+    "num_comments": 17,
+    "post_age_minutes": 35.0,
+    "karma_per_minute": 3.0571,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "CryptoMoonShots_post_8",
+    "subreddit": "CryptoMoonShots",
+    "title": "Sample post 8 from CryptoMoonShots",
+    "karma": 108,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585762.447362,
+    "num_comments": 18,
+    "post_age_minutes": 40.0,
+    "karma_per_minute": 2.7,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "CryptoMoonShots_post_9",
+    "subreddit": "CryptoMoonShots",
+    "title": "Sample post 9 from CryptoMoonShots",
+    "karma": 109,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585462.4473631,
+    "num_comments": 19,
+    "post_age_minutes": 45.0,
+    "karma_per_minute": 2.4222,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "SatoshiStreetBets_post_0",
+    "subreddit": "SatoshiStreetBets",
+    "title": "Sample post 0 from SatoshiStreetBets",
+    "karma": 100,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744588162.4473631,
+    "num_comments": 10,
+    "post_age_minutes": 1,
+    "karma_per_minute": 100.0,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "SatoshiStreetBets_post_1",
+    "subreddit": "SatoshiStreetBets",
+    "title": "Sample post 1 from SatoshiStreetBets",
+    "karma": 101,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587862.447364,
+    "num_comments": 11,
+    "post_age_minutes": 5.0,
+    "karma_per_minute": 20.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "SatoshiStreetBets_post_2",
+    "subreddit": "SatoshiStreetBets",
+    "title": "Sample post 2 from SatoshiStreetBets",
+    "karma": 102,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587562.447365,
+    "num_comments": 12,
+    "post_age_minutes": 10.0,
+    "karma_per_minute": 10.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "SatoshiStreetBets_post_3",
+    "subreddit": "SatoshiStreetBets",
+    "title": "Sample post 3 from SatoshiStreetBets",
+    "karma": 103,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587262.447365,
+    "num_comments": 13,
+    "post_age_minutes": 15.0,
+    "karma_per_minute": 6.8667,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "SatoshiStreetBets_post_4",
+    "subreddit": "SatoshiStreetBets",
+    "title": "Sample post 4 from SatoshiStreetBets",
+    "karma": 104,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586962.447366,
+    "num_comments": 14,
+    "post_age_minutes": 20.0,
+    "karma_per_minute": 5.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "SatoshiStreetBets_post_5",
+    "subreddit": "SatoshiStreetBets",
+    "title": "Sample post 5 from SatoshiStreetBets",
+    "karma": 105,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586662.447366,
+    "num_comments": 15,
+    "post_age_minutes": 25.0,
+    "karma_per_minute": 4.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "SatoshiStreetBets_post_6",
+    "subreddit": "SatoshiStreetBets",
+    "title": "Sample post 6 from SatoshiStreetBets",
+    "karma": 106,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586362.447367,
+    "num_comments": 16,
+    "post_age_minutes": 30.0,
+    "karma_per_minute": 3.5333,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "SatoshiStreetBets_post_7",
+    "subreddit": "SatoshiStreetBets",
+    "title": "Sample post 7 from SatoshiStreetBets",
+    "karma": 107,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586062.447367,
+    "num_comments": 17,
+    "post_age_minutes": 35.0,
+    "karma_per_minute": 3.0571,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "SatoshiStreetBets_post_8",
+    "subreddit": "SatoshiStreetBets",
+    "title": "Sample post 8 from SatoshiStreetBets",
+    "karma": 108,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585762.447368,
+    "num_comments": 18,
+    "post_age_minutes": 40.0,
+    "karma_per_minute": 2.7,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "SatoshiStreetBets_post_9",
+    "subreddit": "SatoshiStreetBets",
+    "title": "Sample post 9 from SatoshiStreetBets",
+    "karma": 109,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585462.447368,
+    "num_comments": 19,
+    "post_age_minutes": 45.0,
+    "karma_per_minute": 2.4222,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "Altcoin_post_0",
+    "subreddit": "Altcoin",
+    "title": "Sample post 0 from Altcoin",
+    "karma": 100,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744588162.4473689,
+    "num_comments": 10,
+    "post_age_minutes": 1,
+    "karma_per_minute": 100.0,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "Altcoin_post_1",
+    "subreddit": "Altcoin",
+    "title": "Sample post 1 from Altcoin",
+    "karma": 101,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587862.44737,
+    "num_comments": 11,
+    "post_age_minutes": 5.0,
+    "karma_per_minute": 20.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "Altcoin_post_2",
+    "subreddit": "Altcoin",
+    "title": "Sample post 2 from Altcoin",
+    "karma": 102,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587562.44737,
+    "num_comments": 12,
+    "post_age_minutes": 10.0,
+    "karma_per_minute": 10.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "Altcoin_post_3",
+    "subreddit": "Altcoin",
+    "title": "Sample post 3 from Altcoin",
+    "karma": 103,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587262.447371,
+    "num_comments": 13,
+    "post_age_minutes": 15.0,
+    "karma_per_minute": 6.8667,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "Altcoin_post_4",
+    "subreddit": "Altcoin",
+    "title": "Sample post 4 from Altcoin",
+    "karma": 104,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586962.447371,
+    "num_comments": 14,
+    "post_age_minutes": 20.0,
+    "karma_per_minute": 5.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "Altcoin_post_5",
+    "subreddit": "Altcoin",
+    "title": "Sample post 5 from Altcoin",
+    "karma": 105,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586662.447372,
+    "num_comments": 15,
+    "post_age_minutes": 25.0,
+    "karma_per_minute": 4.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "Altcoin_post_6",
+    "subreddit": "Altcoin",
+    "title": "Sample post 6 from Altcoin",
+    "karma": 106,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586362.447372,
+    "num_comments": 16,
+    "post_age_minutes": 30.0,
+    "karma_per_minute": 3.5333,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "Altcoin_post_7",
+    "subreddit": "Altcoin",
+    "title": "Sample post 7 from Altcoin",
+    "karma": 107,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586062.4473732,
+    "num_comments": 17,
+    "post_age_minutes": 35.0,
+    "karma_per_minute": 3.0571,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "Altcoin_post_8",
+    "subreddit": "Altcoin",
+    "title": "Sample post 8 from Altcoin",
+    "karma": 108,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585762.4473732,
+    "num_comments": 18,
+    "post_age_minutes": 40.0,
+    "karma_per_minute": 2.7,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "Altcoin_post_9",
+    "subreddit": "Altcoin",
+    "title": "Sample post 9 from Altcoin",
+    "karma": 109,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585462.447374,
+    "num_comments": 19,
+    "post_age_minutes": 45.0,
+    "karma_per_minute": 2.4222,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "CryptoMarkets_post_0",
+    "subreddit": "CryptoMarkets",
+    "title": "Sample post 0 from CryptoMarkets",
+    "karma": 100,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744588162.447374,
+    "num_comments": 10,
+    "post_age_minutes": 1,
+    "karma_per_minute": 100.0,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "CryptoMarkets_post_1",
+    "subreddit": "CryptoMarkets",
+    "title": "Sample post 1 from CryptoMarkets",
+    "karma": 101,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587862.447375,
+    "num_comments": 11,
+    "post_age_minutes": 5.0,
+    "karma_per_minute": 20.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "CryptoMarkets_post_2",
+    "subreddit": "CryptoMarkets",
+    "title": "Sample post 2 from CryptoMarkets",
+    "karma": 102,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587562.4473758,
+    "num_comments": 12,
+    "post_age_minutes": 10.0,
+    "karma_per_minute": 10.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "CryptoMarkets_post_3",
+    "subreddit": "CryptoMarkets",
+    "title": "Sample post 3 from CryptoMarkets",
+    "karma": 103,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587262.4473758,
+    "num_comments": 13,
+    "post_age_minutes": 15.0,
+    "karma_per_minute": 6.8667,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "CryptoMarkets_post_4",
+    "subreddit": "CryptoMarkets",
+    "title": "Sample post 4 from CryptoMarkets",
+    "karma": 104,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586962.447377,
+    "num_comments": 14,
+    "post_age_minutes": 20.0,
+    "karma_per_minute": 5.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "CryptoMarkets_post_5",
+    "subreddit": "CryptoMarkets",
+    "title": "Sample post 5 from CryptoMarkets",
+    "karma": 105,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586662.447377,
+    "num_comments": 15,
+    "post_age_minutes": 25.0,
+    "karma_per_minute": 4.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "CryptoMarkets_post_6",
+    "subreddit": "CryptoMarkets",
+    "title": "Sample post 6 from CryptoMarkets",
+    "karma": 106,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586362.447378,
+    "num_comments": 16,
+    "post_age_minutes": 30.0,
+    "karma_per_minute": 3.5333,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "CryptoMarkets_post_7",
+    "subreddit": "CryptoMarkets",
+    "title": "Sample post 7 from CryptoMarkets",
+    "karma": 107,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586062.447378,
+    "num_comments": 17,
+    "post_age_minutes": 35.0,
+    "karma_per_minute": 3.0571,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "CryptoMarkets_post_8",
+    "subreddit": "CryptoMarkets",
+    "title": "Sample post 8 from CryptoMarkets",
+    "karma": 108,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585762.447381,
+    "num_comments": 18,
+    "post_age_minutes": 40.0,
+    "karma_per_minute": 2.7,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "CryptoMarkets_post_9",
+    "subreddit": "CryptoMarkets",
+    "title": "Sample post 9 from CryptoMarkets",
+    "karma": 109,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585462.447381,
+    "num_comments": 19,
+    "post_age_minutes": 45.0,
+    "karma_per_minute": 2.4222,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "cryptostreetbets_post_0",
+    "subreddit": "cryptostreetbets",
+    "title": "Sample post 0 from cryptostreetbets",
+    "karma": 100,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744588162.447382,
+    "num_comments": 10,
+    "post_age_minutes": 1,
+    "karma_per_minute": 100.0,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "cryptostreetbets_post_1",
+    "subreddit": "cryptostreetbets",
+    "title": "Sample post 1 from cryptostreetbets",
+    "karma": 101,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587862.447382,
+    "num_comments": 11,
+    "post_age_minutes": 5.0,
+    "karma_per_minute": 20.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "cryptostreetbets_post_2",
+    "subreddit": "cryptostreetbets",
+    "title": "Sample post 2 from cryptostreetbets",
+    "karma": 102,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587562.447383,
+    "num_comments": 12,
+    "post_age_minutes": 10.0,
+    "karma_per_minute": 10.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "cryptostreetbets_post_3",
+    "subreddit": "cryptostreetbets",
+    "title": "Sample post 3 from cryptostreetbets",
+    "karma": 103,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587262.447384,
+    "num_comments": 13,
+    "post_age_minutes": 15.0,
+    "karma_per_minute": 6.8667,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "cryptostreetbets_post_4",
+    "subreddit": "cryptostreetbets",
+    "title": "Sample post 4 from cryptostreetbets",
+    "karma": 104,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586962.447384,
+    "num_comments": 14,
+    "post_age_minutes": 20.0,
+    "karma_per_minute": 5.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "cryptostreetbets_post_5",
+    "subreddit": "cryptostreetbets",
+    "title": "Sample post 5 from cryptostreetbets",
+    "karma": 105,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586662.447385,
+    "num_comments": 15,
+    "post_age_minutes": 25.0,
+    "karma_per_minute": 4.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "cryptostreetbets_post_6",
+    "subreddit": "cryptostreetbets",
+    "title": "Sample post 6 from cryptostreetbets",
+    "karma": 106,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586362.447385,
+    "num_comments": 16,
+    "post_age_minutes": 30.0,
+    "karma_per_minute": 3.5333,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "cryptostreetbets_post_7",
+    "subreddit": "cryptostreetbets",
+    "title": "Sample post 7 from cryptostreetbets",
+    "karma": 107,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586062.447386,
+    "num_comments": 17,
+    "post_age_minutes": 35.0,
+    "karma_per_minute": 3.0571,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "cryptostreetbets_post_8",
+    "subreddit": "cryptostreetbets",
+    "title": "Sample post 8 from cryptostreetbets",
+    "karma": 108,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585762.447386,
+    "num_comments": 18,
+    "post_age_minutes": 40.0,
+    "karma_per_minute": 2.7,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "cryptostreetbets_post_9",
+    "subreddit": "cryptostreetbets",
+    "title": "Sample post 9 from cryptostreetbets",
+    "karma": 109,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585462.447387,
+    "num_comments": 19,
+    "post_age_minutes": 45.0,
+    "karma_per_minute": 2.4222,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "defi_post_0",
+    "subreddit": "defi",
+    "title": "Sample post 0 from defi",
+    "karma": 100,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744588162.447387,
+    "num_comments": 10,
+    "post_age_minutes": 1,
+    "karma_per_minute": 100.0,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "defi_post_1",
+    "subreddit": "defi",
+    "title": "Sample post 1 from defi",
+    "karma": 101,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587862.447388,
+    "num_comments": 11,
+    "post_age_minutes": 5.0,
+    "karma_per_minute": 20.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "defi_post_2",
+    "subreddit": "defi",
+    "title": "Sample post 2 from defi",
+    "karma": 102,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587562.447389,
+    "num_comments": 12,
+    "post_age_minutes": 10.0,
+    "karma_per_minute": 10.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "defi_post_3",
+    "subreddit": "defi",
+    "title": "Sample post 3 from defi",
+    "karma": 103,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587262.447389,
+    "num_comments": 13,
+    "post_age_minutes": 15.0,
+    "karma_per_minute": 6.8667,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "defi_post_4",
+    "subreddit": "defi",
+    "title": "Sample post 4 from defi",
+    "karma": 104,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586962.4473898,
+    "num_comments": 14,
+    "post_age_minutes": 20.0,
+    "karma_per_minute": 5.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "defi_post_5",
+    "subreddit": "defi",
+    "title": "Sample post 5 from defi",
+    "karma": 105,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586662.4473898,
+    "num_comments": 15,
+    "post_age_minutes": 25.0,
+    "karma_per_minute": 4.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "defi_post_6",
+    "subreddit": "defi",
+    "title": "Sample post 6 from defi",
+    "karma": 106,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586362.447391,
+    "num_comments": 16,
+    "post_age_minutes": 30.0,
+    "karma_per_minute": 3.5333,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "defi_post_7",
+    "subreddit": "defi",
+    "title": "Sample post 7 from defi",
+    "karma": 107,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586062.447391,
+    "num_comments": 17,
+    "post_age_minutes": 35.0,
+    "karma_per_minute": 3.0571,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "defi_post_8",
+    "subreddit": "defi",
+    "title": "Sample post 8 from defi",
+    "karma": 108,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585762.447392,
+    "num_comments": 18,
+    "post_age_minutes": 40.0,
+    "karma_per_minute": 2.7,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "defi_post_9",
+    "subreddit": "defi",
+    "title": "Sample post 9 from defi",
+    "karma": 109,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585462.447392,
+    "num_comments": 19,
+    "post_age_minutes": 45.0,
+    "karma_per_minute": 2.4222,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "0xPolygon_post_0",
+    "subreddit": "0xPolygon",
+    "title": "Sample post 0 from 0xPolygon",
+    "karma": 100,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744588162.447393,
+    "num_comments": 10,
+    "post_age_minutes": 1,
+    "karma_per_minute": 100.0,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "0xPolygon_post_1",
+    "subreddit": "0xPolygon",
+    "title": "Sample post 1 from 0xPolygon",
+    "karma": 101,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587862.4473941,
+    "num_comments": 11,
+    "post_age_minutes": 5.0,
+    "karma_per_minute": 20.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "0xPolygon_post_2",
+    "subreddit": "0xPolygon",
+    "title": "Sample post 2 from 0xPolygon",
+    "karma": 102,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587562.4473941,
+    "num_comments": 12,
+    "post_age_minutes": 10.0,
+    "karma_per_minute": 10.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "0xPolygon_post_3",
+    "subreddit": "0xPolygon",
+    "title": "Sample post 3 from 0xPolygon",
+    "karma": 103,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587262.447395,
+    "num_comments": 13,
+    "post_age_minutes": 15.0,
+    "karma_per_minute": 6.8667,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "0xPolygon_post_4",
+    "subreddit": "0xPolygon",
+    "title": "Sample post 4 from 0xPolygon",
+    "karma": 104,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586962.4473972,
+    "num_comments": 14,
+    "post_age_minutes": 20.0,
+    "karma_per_minute": 5.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "0xPolygon_post_5",
+    "subreddit": "0xPolygon",
+    "title": "Sample post 5 from 0xPolygon",
+    "karma": 105,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586662.4473972,
+    "num_comments": 15,
+    "post_age_minutes": 25.0,
+    "karma_per_minute": 4.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "0xPolygon_post_6",
+    "subreddit": "0xPolygon",
+    "title": "Sample post 6 from 0xPolygon",
+    "karma": 106,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586362.447398,
+    "num_comments": 16,
+    "post_age_minutes": 30.0,
+    "karma_per_minute": 3.5333,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "0xPolygon_post_7",
+    "subreddit": "0xPolygon",
+    "title": "Sample post 7 from 0xPolygon",
+    "karma": 107,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586062.447399,
+    "num_comments": 17,
+    "post_age_minutes": 35.0,
+    "karma_per_minute": 3.0571,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "0xPolygon_post_8",
+    "subreddit": "0xPolygon",
+    "title": "Sample post 8 from 0xPolygon",
+    "karma": 108,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585762.447399,
+    "num_comments": 18,
+    "post_age_minutes": 40.0,
+    "karma_per_minute": 2.7,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "0xPolygon_post_9",
+    "subreddit": "0xPolygon",
+    "title": "Sample post 9 from 0xPolygon",
+    "karma": 109,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585462.4473999,
+    "num_comments": 19,
+    "post_age_minutes": 45.0,
+    "karma_per_minute": 2.4222,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "Solana_post_0",
+    "subreddit": "Solana",
+    "title": "Sample post 0 from Solana",
+    "karma": 100,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744588162.447401,
+    "num_comments": 10,
+    "post_age_minutes": 1,
+    "karma_per_minute": 100.0,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "Solana_post_1",
+    "subreddit": "Solana",
+    "title": "Sample post 1 from Solana",
+    "karma": 101,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587862.447401,
+    "num_comments": 11,
+    "post_age_minutes": 5.0,
+    "karma_per_minute": 20.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "Solana_post_2",
+    "subreddit": "Solana",
+    "title": "Sample post 2 from Solana",
+    "karma": 102,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587562.447402,
+    "num_comments": 12,
+    "post_age_minutes": 10.0,
+    "karma_per_minute": 10.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "Solana_post_3",
+    "subreddit": "Solana",
+    "title": "Sample post 3 from Solana",
+    "karma": 103,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587262.447402,
+    "num_comments": 13,
+    "post_age_minutes": 15.0,
+    "karma_per_minute": 6.8667,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "Solana_post_4",
+    "subreddit": "Solana",
+    "title": "Sample post 4 from Solana",
+    "karma": 104,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586962.447403,
+    "num_comments": 14,
+    "post_age_minutes": 20.0,
+    "karma_per_minute": 5.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "Solana_post_5",
+    "subreddit": "Solana",
+    "title": "Sample post 5 from Solana",
+    "karma": 105,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586662.447403,
+    "num_comments": 15,
+    "post_age_minutes": 25.0,
+    "karma_per_minute": 4.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "Solana_post_6",
+    "subreddit": "Solana",
+    "title": "Sample post 6 from Solana",
+    "karma": 106,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586362.4474041,
+    "num_comments": 16,
+    "post_age_minutes": 30.0,
+    "karma_per_minute": 3.5333,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "Solana_post_7",
+    "subreddit": "Solana",
+    "title": "Sample post 7 from Solana",
+    "karma": 107,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586062.4474041,
+    "num_comments": 17,
+    "post_age_minutes": 35.0,
+    "karma_per_minute": 3.0571,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "Solana_post_8",
+    "subreddit": "Solana",
+    "title": "Sample post 8 from Solana",
+    "karma": 108,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585762.447405,
+    "num_comments": 18,
+    "post_age_minutes": 40.0,
+    "karma_per_minute": 2.7,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "Solana_post_9",
+    "subreddit": "Solana",
+    "title": "Sample post 9 from Solana",
+    "karma": 109,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585462.447405,
+    "num_comments": 19,
+    "post_age_minutes": 45.0,
+    "karma_per_minute": 2.4222,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "Ethereum_post_0",
+    "subreddit": "Ethereum",
+    "title": "Sample post 0 from Ethereum",
+    "karma": 100,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744588162.447406,
+    "num_comments": 10,
+    "post_age_minutes": 1,
+    "karma_per_minute": 100.0,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "Ethereum_post_1",
+    "subreddit": "Ethereum",
+    "title": "Sample post 1 from Ethereum",
+    "karma": 101,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587862.447406,
+    "num_comments": 11,
+    "post_age_minutes": 5.0,
+    "karma_per_minute": 20.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "Ethereum_post_2",
+    "subreddit": "Ethereum",
+    "title": "Sample post 2 from Ethereum",
+    "karma": 102,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587562.447407,
+    "num_comments": 12,
+    "post_age_minutes": 10.0,
+    "karma_per_minute": 10.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "Ethereum_post_3",
+    "subreddit": "Ethereum",
+    "title": "Sample post 3 from Ethereum",
+    "karma": 103,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587262.4474082,
+    "num_comments": 13,
+    "post_age_minutes": 15.0,
+    "karma_per_minute": 6.8667,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "Ethereum_post_4",
+    "subreddit": "Ethereum",
+    "title": "Sample post 4 from Ethereum",
+    "karma": 104,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586962.4474082,
+    "num_comments": 14,
+    "post_age_minutes": 20.0,
+    "karma_per_minute": 5.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "Ethereum_post_5",
+    "subreddit": "Ethereum",
+    "title": "Sample post 5 from Ethereum",
+    "karma": 105,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586662.447409,
+    "num_comments": 15,
+    "post_age_minutes": 25.0,
+    "karma_per_minute": 4.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "Ethereum_post_6",
+    "subreddit": "Ethereum",
+    "title": "Sample post 6 from Ethereum",
+    "karma": 106,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586362.447409,
+    "num_comments": 16,
+    "post_age_minutes": 30.0,
+    "karma_per_minute": 3.5333,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "Ethereum_post_7",
+    "subreddit": "Ethereum",
+    "title": "Sample post 7 from Ethereum",
+    "karma": 107,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586062.4474099,
+    "num_comments": 17,
+    "post_age_minutes": 35.0,
+    "karma_per_minute": 3.0571,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "Ethereum_post_8",
+    "subreddit": "Ethereum",
+    "title": "Sample post 8 from Ethereum",
+    "karma": 108,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585762.4474099,
+    "num_comments": 18,
+    "post_age_minutes": 40.0,
+    "karma_per_minute": 2.7,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "Ethereum_post_9",
+    "subreddit": "Ethereum",
+    "title": "Sample post 9 from Ethereum",
+    "karma": 109,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585462.447411,
+    "num_comments": 19,
+    "post_age_minutes": 45.0,
+    "karma_per_minute": 2.4222,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "AVAX_post_0",
+    "subreddit": "AVAX",
+    "title": "Sample post 0 from AVAX",
+    "karma": 100,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744588162.447411,
+    "num_comments": 10,
+    "post_age_minutes": 1,
+    "karma_per_minute": 100.0,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "AVAX_post_1",
+    "subreddit": "AVAX",
+    "title": "Sample post 1 from AVAX",
+    "karma": 101,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587862.447412,
+    "num_comments": 11,
+    "post_age_minutes": 5.0,
+    "karma_per_minute": 20.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "AVAX_post_2",
+    "subreddit": "AVAX",
+    "title": "Sample post 2 from AVAX",
+    "karma": 102,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587562.447412,
+    "num_comments": 12,
+    "post_age_minutes": 10.0,
+    "karma_per_minute": 10.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "AVAX_post_3",
+    "subreddit": "AVAX",
+    "title": "Sample post 3 from AVAX",
+    "karma": 103,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744587262.447413,
+    "num_comments": 13,
+    "post_age_minutes": 15.0,
+    "karma_per_minute": 6.8667,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "AVAX_post_4",
+    "subreddit": "AVAX",
+    "title": "Sample post 4 from AVAX",
+    "karma": 104,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586962.447414,
+    "num_comments": 14,
+    "post_age_minutes": 20.0,
+    "karma_per_minute": 5.2,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "AVAX_post_5",
+    "subreddit": "AVAX",
+    "title": "Sample post 5 from AVAX",
+    "karma": 105,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586662.447414,
+    "num_comments": 15,
+    "post_age_minutes": 25.0,
+    "karma_per_minute": 4.2,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "AVAX_post_6",
+    "subreddit": "AVAX",
+    "title": "Sample post 6 from AVAX",
+    "karma": 106,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586362.447415,
+    "num_comments": 16,
+    "post_age_minutes": 30.0,
+    "karma_per_minute": 3.5333,
+    "mentions": [
+      "TOKEN0"
+    ]
+  },
+  {
+    "id": "AVAX_post_7",
+    "subreddit": "AVAX",
+    "title": "Sample post 7 from AVAX",
+    "karma": 107,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744586062.447415,
+    "num_comments": 17,
+    "post_age_minutes": 35.0,
+    "karma_per_minute": 3.0571,
+    "mentions": [
+      "TOKEN1"
+    ]
+  },
+  {
+    "id": "AVAX_post_8",
+    "subreddit": "AVAX",
+    "title": "Sample post 8 from AVAX",
+    "karma": 108,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585762.447416,
+    "num_comments": 18,
+    "post_age_minutes": 40.0,
+    "karma_per_minute": 2.7,
+    "mentions": [
+      "TOKEN2"
+    ]
+  },
+  {
+    "id": "AVAX_post_9",
+    "subreddit": "AVAX",
+    "title": "Sample post 9 from AVAX",
+    "karma": 109,
+    "upvote_ratio": 0.9,
+    "created_utc": 1744585462.447416,
+    "num_comments": 19,
+    "post_age_minutes": 45.0,
+    "karma_per_minute": 2.4222,
+    "mentions": [
+      "TOKEN0"
+    ]
+  }
+]

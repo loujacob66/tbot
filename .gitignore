@@ -1,1 +1,31 @@
 .venv/
+logs/
+
+# macOS
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Logs and data output
+logs/
+*.log
+*.db
+*.csv
+*.json
+*.sqlite
+trending.*
+commands/logs/
+config/logs/
+data/reddit_posts.json
+data/coingecko_tokens.json
+
+# Secrets
+config/*secrets.json
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
